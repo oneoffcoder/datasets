@@ -9,6 +9,7 @@
 - [2009 NFL Weekly League Schedule](https://www.pro-football-reference.com/years/2009/games.htm)
 - [MaxPreps](https://www.maxpreps.com)
 - [Hudl](https://www.hudl.com/)
+- [F1](https://pypi.org/project/fastf1/) with [tutorial](https://medium.com/towards-formula-1-analysis/analyzing-formula-1-data-using-python-2021-abu-dhabi-gp-minisector-comparison-3d72aa39e5e8)
 
 # APIs
 
